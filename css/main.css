@@ -1,0 +1,22 @@
+/* Se aplica un selector universal para el tamaño y tipo de letras*/
+*{
+font-family: monospace;
+font-size: 15px;
+}
+/* Margen: separador entre los elementos "DIV" - Paddings: Relleno para que las letras le muestren al usuario
+en la esquina izquierda superior - Display: para que indicque al programador que es un elemento tipo bloque */
+div{
+  display: block;
+  margin: 11px;
+  padding-right: 45px;
+  padding-bottom: 80px;
+}
+/*Al atributo tipo clase, se le asigna un color de fondo, pero no de letra, ya que automaticamente sera de color negro. */
+.Yellow {
+  background-color: gold;
+}
+/*Al atributo tipo clase se le asigna un color de fondo y de letra */
+.Gray{
+  background-color: DarkSlateGrey;
+  color: white;
+}

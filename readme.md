@@ -1,4 +1,5 @@
-#Ejercicio: Banderas Display#
+#Ejercicio: Banderas Display#  
+
 Este ejercicio se a realizado con el fin de mostrarle al usuario nuestro aprendizaje  
 en este segundo sprint junto con nuestro auto-aprendizaje.  
 
